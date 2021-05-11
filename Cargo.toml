@@ -1,0 +1,11 @@
+[package]
+name = "dinosaur_game"
+version = "0.1.0"
+authors = ["Hampus Avekvist <seffraavekvist@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[dependencies.amethyst]
+version = "0.15.3"
+features = [ "vulkan" ]

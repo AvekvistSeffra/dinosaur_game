@@ -1,0 +1,4 @@
+(
+  title: "Dinosaur Game!",
+  dimensions: Some((1000, 400)),
+)
